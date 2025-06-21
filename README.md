@@ -5,12 +5,6 @@ This is a flutter app in which i have make a BMI Calculator App with the hekp of
 
 
 
-
-## Demo/Tutorial video 
-
-Youtube channel https://www.youtube.com/channel/UCCbgU4H2YQVZUqQmhZXKpfQ
-
-
 ## Screenshots
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofXnj3h1-dGdqSKToVMz4lbAx9KjsK8A9_Zr9Zt3i7BGYsg5JB6gNSRDlrxNNsHCqRUEk1jFDVVdRelaeoZofbhJ4JHt3UBnknIe214khxgXkfNjT377f1BoZI1rCVJmhYP1UgtBJIf8olh4v9vub0q7-mEuNZLeKUWHPqQzp9bdTovfEXmioRiVq_S7Z/s10278/BMI.png)
